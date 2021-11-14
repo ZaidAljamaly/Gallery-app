@@ -1,0 +1,12 @@
+.col-lg-4 {
+    margin:40px;
+    padding:40px;
+}
+.photo{
+   max-width:400px;
+}
+.tags{
+    background-color: gray;
+    border-radius: 10px;
+    margin: 10px;
+}
