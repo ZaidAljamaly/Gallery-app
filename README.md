@@ -1,3 +1,3 @@
-Gallery-app
+/Gallery-app/
 the link is here
 
